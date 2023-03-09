@@ -1,5 +1,0 @@
-[{"ev":"status","status":"connected","message":"Connected Successfully"}]
-[{"ev":"status","status":"auth_success","message":"authenticated"}]
-[{"ev":"status","status":"success","message":"subscribed to: A.AAPL"}]
-[{"ev":"A","sym":"AAPL","v":2113,"av":35991784,"op":152.35,"vw":151.6181,"o":151.612,"c":151.62,"h":151.62,"l":151.612,"a":151.8759,"z":150,"s":1676660540000,"e":1676660541000}]
-[{"ev":"A","sym":"AAPL","v":1114,"av":35992898,"op":152.35,"vw":151.6303,"o":151.63,"c":151.63,"h":151.63,"l":151.63,"a":151.8759,"z":79,"s":1676660541000,"e":1676660542000}]

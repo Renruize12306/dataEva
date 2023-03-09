@@ -1,5 +1,0 @@
-[{"ev":"status","status":"connected","message":"Connected Successfully"}]
-[{"ev":"status","status":"auth_success","message":"authenticated"}]
-[{"ev":"status","status":"success","message":"subscribed to: A.META"}]
-[{"ev":"A","sym":"META","v":1051,"av":13005062,"op":170.22,"vw":171,"o":171,"c":171,"h":171,"l":171,"a":171.0249,"z":175,"s":1676660560000,"e":1676660561000}]
-[{"ev":"A","sym":"META","v":772,"av":13005834,"op":170.22,"vw":171.0078,"o":171.005,"c":171.01,"h":171.01,"l":171.005,"a":171.0249,"z":59,"s":1676660562000,"e":1676660563000}]

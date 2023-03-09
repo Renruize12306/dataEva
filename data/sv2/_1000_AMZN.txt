@@ -1,5 +1,0 @@
-[{"ev":"status","status":"connected","message":"Connected Successfully"}]
-[{"ev":"status","status":"auth_success","message":"authenticated"}]
-[{"ev":"status","status":"success","message":"subscribed to: A.AMZN"}]
-[{"ev":"A","sym":"AMZN","v":307,"av":35676400,"op":97.8,"vw":96.0501,"o":96.05,"c":96.05,"h":96.05,"l":96.05,"a":96.3565,"z":51,"s":1676660630000,"e":1676660631000}]
-[{"ev":"A","sym":"AMZN","v":1111,"av":35677511,"op":97.8,"vw":96.0505,"o":96.055,"c":96.05,"h":96.055,"l":96.05,"a":96.3565,"z":185,"s":1676660631000,"e":1676660632000}]
