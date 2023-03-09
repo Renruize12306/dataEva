@@ -25,9 +25,10 @@ start_group_functions(run_times, Tickers, ets, tims * minutes)
     offering the biggest moves in the shortest amount of time.
 
     the stock market offers those most frequently in the hours after it opens, 
-    from 9:30 a.m. to about noon ET, and then in the last hour of trading before the 
-    close at 4 p.m. ET.
+    from 9:30 a.m. to about noon ET, 
+    and then in the last hour of trading before the close at 4 p.m. ET.
 
-    The stock market is the most active market for day trading — particularly in the first 
-    few hours and last hour of the trading day.
+    The stock market is the most active market for day trading — 
+    particularly in the first few hours 
+    and last hour of the trading day.
 =# 

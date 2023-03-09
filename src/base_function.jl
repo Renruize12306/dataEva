@@ -21,7 +21,7 @@ function test_data(tickers::Array{String, 1}, time, v::Int, ets::Array{String, 1
     try
         ind = 1;
         mapping = Dict{String, Dict{String, Any}}()
-        tuple_auth = ("auth", "t9aBscv_R5BGecynbrcTi7vnD5rSxt1I");
+        tuple_auth = ("auth", "");
         instructions = Array{Tuple}([])
         push!(instructions, tuple_auth)
         for et in ets
