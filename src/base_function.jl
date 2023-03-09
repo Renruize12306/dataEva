@@ -21,7 +21,7 @@ function test_data(tickers::Array{String, 1}, time, v::Int, ets::Array{String, 1
     try
         ind = 1;
         mapping = Dict{String, Dict{String, Any}}()
-        tuple_auth = ("auth", "");
+        tuple_auth = ("auth", "t9aBscv_R5BGecynbrcTi7vnD5rSxt1I");
         instructions = Array{Tuple}([])
         push!(instructions, tuple_auth)
         for et in ets
@@ -82,7 +82,7 @@ function function_to_run_in_specific_time(time_until_run, Tickers, ets, interval
     
     println("running in: ", time_until_run , " sec")
     sleep(time_until_run)
-    test_data(Tickers, interval, 3, ets, now())
+    test_data(Tickers, interval, 1, ets, now())
 
 end
 
