@@ -1,0 +1,4 @@
+[{"ev":"status","status":"connected","message":"Connected Successfully"}]
+[{"ev":"status","status":"auth_success","message":"authenticated"}]
+[{"ev":"status","status":"success","message":"subscribed to: A.META"}]
+[{"ev":"A","sym":"META","v":130,"av":13066830,"op":170.22,"vw":170.8004,"o":170.799,"c":170.799,"h":170.799,"l":170.799,"a":171.0246,"z":65,"s":1676660653000,"e":1676660654000}]

@@ -1,0 +1,4 @@
+[{"ev":"status","status":"connected","message":"Connected Successfully"}]
+[{"ev":"status","status":"auth_success","message":"authenticated"}]
+[{"ev":"status","status":"success","message":"subscribed to: A.MSFT"}]
+[{"ev":"A","sym":"MSFT","v":2262,"av":18483694,"op":259.39,"vw":256.9975,"o":256.99,"c":257,"h":257,"l":256.99,"a":257.6386,"z":66,"s":1676660695000,"e":1676660696000}]

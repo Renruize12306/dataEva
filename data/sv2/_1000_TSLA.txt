@@ -1,0 +1,5 @@
+[{"ev":"status","status":"connected","message":"Connected Successfully"}]
+[{"ev":"status","status":"auth_success","message":"authenticated"}]
+[{"ev":"status","status":"success","message":"subscribed to: A.TSLA"}]
+[{"ev":"A","sym":"TSLA","v":1590,"av":147367052,"op":199.985,"vw":202.9724,"o":202.9867,"c":202.988,"h":202.988,"l":202.9671,"a":201.4368,"z":122,"s":1676660628000,"e":1676660629000}]
+[{"ev":"A","sym":"TSLA","v":1573,"av":147368625,"op":199.985,"vw":202.9679,"o":202.98,"c":202.95,"h":202.98,"l":202.95,"a":201.4368,"z":71,"s":1676660629000,"e":1676660630000}]

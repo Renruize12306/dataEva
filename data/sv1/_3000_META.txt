@@ -1,0 +1,5 @@
+[{"ev":"status","status":"connected","message":"Connected Successfully"}]
+[{"ev":"status","status":"auth_success","message":"authenticated"}]
+[{"ev":"status","status":"success","message":"subscribed to: A.META"}]
+[{"ev":"A","sym":"META","v":3016,"av":13041672,"op":170.22,"vw":170.9655,"o":171,"c":170.98,"h":171,"l":170.94,"a":171.0249,"z":77,"s":1676660580000,"e":1676660581000}]
+[{"ev":"A","sym":"META","v":381,"av":13042055,"op":170.22,"vw":170.9589,"o":170.97,"c":170.96,"h":170.97,"l":170.96,"a":171.0249,"z":17,"s":1676660583000,"e":1676660584000}]

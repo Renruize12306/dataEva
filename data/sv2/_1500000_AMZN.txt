@@ -1,0 +1,2 @@
+[{"ev":"status","status":"connected","message":"Connected Successfully"}]
+[{"ev":"status","status":"auth_success","message":"authenticated"},{"ev":"status","status":"success","message":"subscribed to: A.AMZN"}]
