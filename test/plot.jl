@@ -41,8 +41,8 @@ function plot_dict(dict, folder_name)
 
             scatter(x_array, y_array, label="Data Size", mc=:white, msc=colorant"#EF4035", legend=:best, 
             bg="floralwhite", background_color_outside="white", framestyle=:box, fg_legend=:transparent, lw=3)
-            xlabel!("Hours on March 10, 2023 for ticker: $(ticker), type: $(type)", fontsize=18)
-            ylabel!("Data size with 10 minutes window(Kb)", fontsize=18)
+            xlabel!("Hours", fontsize=18)
+            ylabel!("Data size with 10 minutes window (Kb)", fontsize=18)
             savefig("data/$(folder_name)/$(ticker)_$(type)_fig.pdf")
         end
     end
